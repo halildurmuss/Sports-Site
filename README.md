@@ -34,3 +34,6 @@ Web sitesinin ana sayfası “index.html” adlı dosyada bulunacak ve diğer sa
 6. Haberler 
 7. Olimpiyatlar
 8. Genç olimpiyatları
+
+![spor_site_resim](https://user-images.githubusercontent.com/66306220/87681532-6bb8b180-c787-11ea-8f1c-a974d5efcf6b.png)
+
